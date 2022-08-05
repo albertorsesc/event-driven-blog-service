@@ -12,7 +12,10 @@ app.post('/events', (request, response) => {
     axios.post('http://localhost:4000/events', event);
     // comments
     axios.post('http://localhost:4001/events', event);
+    // query
     axios.post('http://localhost:4002/events', event);
+    // comments moderation
+    axios.post('http://localhost:4003/events', event);
 
     response.send({ status: 'OK'});
 });

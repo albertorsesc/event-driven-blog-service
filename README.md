@@ -1,6 +1,6 @@
 ## Event Driven microservice structure for a Blog
 
-#### Installation
+#### Start Services
 
 **Client:**
 
@@ -11,6 +11,12 @@
 **Comments:**
 
 * cd comments;
+* npm install;
+* npm run start;
+
+**Comments Moderator:**
+
+* cd moderation;
 * npm install;
 * npm run start;
 
