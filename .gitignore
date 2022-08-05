@@ -9,3 +9,6 @@ event-bus/package-lock.json
 
 posts/node_modules/
 posts/package-lock.json
+
+query/node_modules/
+query/package-lock.json
