@@ -12,3 +12,6 @@ posts/package-lock.json
 
 query/node_modules/
 query/package-lock.json
+
+moderation/node_modules/
+moderation/package-lock.json
